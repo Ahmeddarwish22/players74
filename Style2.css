@@ -1,0 +1,68 @@
+h1{
+    color: rgb(112, 223, 52);
+    font-style:italic;
+    text-align:start;
+    font-size:36px;
+    text-shadow: -5px 5px 10px  rgb(47, 99, 255);
+			
+}
+.title{
+    margin-top: 72px;
+    margin-left: 115px;
+   
+}
+.text{
+    padding:100px;
+}
+
+body{
+    background-image: url(untldshots-kuViFO5d1UE-unsplash.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: 1500px 1020px;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(251, 251, 251);
+    text-shadow:-5px 5px 10px  greenyellow; 
+}
+.form1{
+    background:rgba(0,0,0,0.6);
+    padding: 24px;
+    margin-top:0px;
+    width: 28%;
+    position: absolute;
+    left:34%;
+    border-radius: 15px;
+}
+input{
+    width: 330px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: center;
+}
+input[type="text"]{
+    font-size: 18px;
+    
+}
+input[type="email"]{
+    font-size: 18px;
+}
+input[type="submit"]{
+    font-size: 20px;
+    height: 40px;
+    background-color:white;
+
+}
+
+.cn 
+{ 
+    color:white;	
+    background-color: rgb(30, 255, 0);
+    font-size:20px ;
+   width:150px ;
+   
+
+}
+
+
+       

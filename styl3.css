@@ -1,0 +1,26 @@
+body{
+    background-image: url(lesly-juarez-isWEKdSRCrA-unsplash.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: 1500px 1300px;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(251, 251, 251);
+}
+.b1{
+    color: rgb(255, 251, 251);
+    font-style:italic;
+    text-align:center;
+    font-size:30px;
+    text-transform:capitalize;
+    text-shadow: -5px 10px 5px rgb(25, 0, 255);
+			
+}
+.b2{
+    color: rgb(0, 0, 0);
+    font-style:italic;
+    text-align:center;
+    font-size:27px;
+    text-transform:capitalize;
+    text-shadow: -5px 10px 5px rgb(25, 0, 255);
+}
